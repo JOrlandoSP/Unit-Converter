@@ -2,7 +2,7 @@
 
 ## Unit Converter é um conversor de unidades imperiais para metricas e viceversa
 
- O Unit Converter é um projeto proposto pelo ao termino do curso de JavaScript da plataforma Scrimba, este conversor segue as especificações solicitadas na proposta do projeto, bem como as especificações esteticas propostas no [arquivo do Figma proposto](<BS>https://www.figma.com/file/LkhGZcoJjekhdGikEiRUNr/Unit-Conversion-(Copy))
+ O Unit Converter é um projeto proposto pelo ao termino do curso de JavaScript da plataforma Scrimba, este conversor segue as especificações solicitadas na proposta do projeto, bem como as especificações esteticas propostas no [arquivo do Figma proposto](https://www.figma.com/file/LkhGZcoJjekhdGikEiRUNr/Unit-Conversion-(Copy))
 
  **O Unit Converter é capaz de:**
 
