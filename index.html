@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Unity Converter</title>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="style.css">
+	<link href='https://fonts.googleapis.com/css?family=Inter' rel='stylesheet'>
+</head>
+	<body>
+		<section id="container">
+			<div id="input-pan">
+				<h1 id="pan-title">Metric/Imperial Unit Conversion</h1>
+				<input id="input-el" type="number" max="1" placeholder="0">
+				<button id="convert-btn">Convert</button>
+			</div>
+			<div id="result-pan">
+				<div class="result-box">
+					<h2 class="result-label">Length (Meter/Feet)</h2>
+					<p class="result" id="meter-feet"></p>
+				</div>
+				<div class="result-box">
+					<h2 class="result-label">Volume (Liters/Gallons</h2>
+					<p class="result" id="liter-gallon"></p>
+				</div>
+				<div class="result-box">
+					<h2 class="result-label">Mass (Kilograms/Pounds)</h2>
+					<p class="result" id="kilo-pound"></p>
+				</div>
+			</div>
+		</section>
+			<script src="app.js"></script>
+	</body>
+</html>
